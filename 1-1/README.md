@@ -463,7 +463,7 @@ branch.main.merge=refs/heads/main
 $ cd ~/Desktop/shockwave/codyssey
 $ git add 1-1/
 $ git commit -m "feat: E1-1 개발 워크스테이션 구축 과제 제출"
-[main (root-commit) PLACEHOLDER] feat: E1-1 개발 워크스테이션 구축 과제 제출
+[main (root-commit) 5b95ca4] feat: E1-1 개발 워크스테이션 구축 과제 제출
  7 files changed, 280 insertions(+)
  create mode 100644 1-1/Dockerfile
  create mode 100644 1-1/README.md
@@ -472,7 +472,7 @@ $ git commit -m "feat: E1-1 개발 워크스테이션 구축 과제 제출"
  create mode 100644 1-1/lab/test.txt
 
 $ git log --oneline
-PLACEHOLDER (HEAD -> main) feat: E1-1 개발 워크스테이션 구축 과제 제출
+5b95ca4 (HEAD -> main) feat: E1-1 개발 워크스테이션 구축 과제 제출
 ```
 
 **GitHub 원격 저장소 Push:**
