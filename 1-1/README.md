@@ -77,7 +77,6 @@ $ ls -al
 total 32
 drwxr-xr-x  9 iyeonjae  staff    288 Mar 31 20:29 .
 drwxr-xr-x  5 iyeonjae  staff    160 Mar 31 20:29 ..
--rw-r--r--  1 iyeonjae  staff   3633 Mar 31 17:57 COMMANDS.md
 -rw-r--r--  1 iyeonjae  staff    256 Mar 31 16:45 Dockerfile
 drwxr-xr-x  3 iyeonjae  staff     96 Mar 31 20:29 labs/bind-mount
 -rw-r--r--  1 iyeonjae  staff    854 Mar 31 20:29 index.html
