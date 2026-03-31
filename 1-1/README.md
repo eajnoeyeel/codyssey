@@ -479,12 +479,9 @@ $ git log --oneline
 
 ```bash
 $ git push -u origin main
-Enumerating objects: 11, done.
-Counting objects: 100% (11/11), done.
-Writing objects: 100% (11/11), 7.2 KiB | 7.2 MiB/s, done.
 To https://github.com/eajnoeyeel/codyssey.git
  * [new branch]      main -> main
-Branch 'main' set up to track remote branch 'main' from 'origin'.
+branch 'main' set up to track 'origin/main'.
 ```
 
 **VSCode GitHub 연동:**
